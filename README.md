@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá! Eu sou o Hugo 👋
 
-<!--
-**HugoLeiteTech/HugoLeiteTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Sistemas de Computação - UFF
+💻 Cursando 1º Período.
+📚 Atualmente estudando HTML, CSS e Lógica de Programação.
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou estudante de tecnologia focado em iniciar minha carreira na área de desenvolvimento.
+Estou desenvolvendo projetos práticos para aprimorar minha lógica de programação, organização de código e construção de páginas web.
+
+## Tecnologias em aprendizado
+
+* HTML5
+* CSS3
+* Git/GitHub
+
+## Objetivo
+
+Busco oportunidade de estágio em TI para adquirir experiência profissional.
+
+## Contato
+
+📧 hugoleite.tech@gmail.com
+
+
+
