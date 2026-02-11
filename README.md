@@ -9,8 +9,8 @@
 Sou estudante de tecnologia em início de carreira, focado em desenvolvimento.
 Atualmente venho construindo projetos práticos para aprimorar lógica de programação, organização de código e criação de páginas web utilizando boas práticas.
 
-## Technologies in learning
-
+## Tecnologia em aprendizado
+   
 * HTML5
 * CSS3
 * Git
